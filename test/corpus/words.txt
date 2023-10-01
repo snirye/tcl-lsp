@@ -1,0 +1,22 @@
+==================
+Words
+==================
+
+puts "fdhaf hdjksahf"
+
+puts "fdasfdasfdsa \
+sfadafdas"
+
+
+---
+
+(tcl_script
+  (command 
+    name: (bare_word)
+    arg_list: (arguments_list
+      (double_quotes )))
+  (command 
+    name: (bare_word)
+    arg_list: (arguments_list
+      (double_quotes )))
+)
