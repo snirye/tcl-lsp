@@ -1,4 +1,4 @@
 {
     "name": "Hope",
-    "dockerFile": "Dockerfile",
+    "dockerFile": "Dockerfile"
  }
